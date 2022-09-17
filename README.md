@@ -9,7 +9,7 @@ This is a Homebrew binary repository for the pre-built GNU toolchain for ARM Cor
 
 ## Installing the formulae
 
-First `brew tap osx-cross/arm` and then `brew install <formula>`.
+First `brew tap unspokenn/arm` and then `brew install <formula>`.
 
 ### Using the prebuilt binaries
 
@@ -17,7 +17,7 @@ To install the entire ARM toolchain, do:
 
 ```bash
 # tap the repository
-$ brew tap osx-cross/arm
+$ brew tap unspokenn/arm
 
 # install the toolchain
 $ brew install arm-gcc-bin
